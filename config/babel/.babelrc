@@ -1,4 +1,3 @@
 {
-  "stage": 0,
-  "nonStandard": true
+  "presets": ["react", "es2015", "stage-0"],
 }

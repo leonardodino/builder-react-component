@@ -1,6 +1,10 @@
 History
 =======
 
+## 0.3.4 - fork
+
+* (try) [update babel](https://medium.com/@malyw/how-to-update-babel-5-x-6-x-d828c230ec53#.x80ytqpvu)
+
 ## 0.3.3
 
 * Update frontend code with "module pattern" for dev. dependencies.
