@@ -1,17 +1,17 @@
 {
-  "name": "builder-react-component",
+  "name": "@leonardodino/builder-react-component",
   "version": "0.3.4",
   "description": "Builder Archetype - React Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FormidableLabs/builder-react-component.git"
+    "url": "https://github.com/leonardodino/builder-react-component.git"
   },
   "author": "Ryan Roemer <ryan.roemer@formidablelabs.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FormidableLabs/builder-react-component/issues"
+    "url": "https://github.com/leonardodino/builder-react-component/issues"
   },
-  "homepage": "https://github.com/FormidableLabs/builder-react-component",
+  "homepage": "https://github.com/leonardodino/builder-react-component",
   "scripts": {
     "npm:postinstall": "cd lib || builder run build-lib",
     "npm:preversion": "builder run check",
